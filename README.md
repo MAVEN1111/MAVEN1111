@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MAVEN1111
-- 👀 I’m interested in software & internet
+- 👀 I’m interested in software &           internet
 - 🌱 I’m currently learning programming
-- 💞️ Instagtam tthaersu111
-- 📫 
+- 📫 Instagram tthaersu111
+- 
 
 <!---
 MAVEN1111/MAVEN1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
